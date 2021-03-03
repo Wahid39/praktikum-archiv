@@ -1,0 +1,36 @@
+SYARAT PENULISAN LAPORAN
+
+-----layouts-----
+1. format kertas A4/A4s
+2. format margins 4 cm left, 4 cm top, 3 cm bottom, 3 cm right
+
+----isi---
+3. cover sesui format
+4. jenis font isi times new romans
+5. spacing 1.5
+6. jenis font coding courier new
+7. textbox secript coding
+8. jenis font header Segoe Script
+9. Jenis font footer Times New Romans
+10. untuk kata istilah komputer atau bahsa inggris atau asing harus bercetak miring (italic)
+11. penomoran page harus sesuai dengan daftar isi
+    penggunaan simbol keterangan harus seragam...
+
+------halam pengesahan--
+12. laporan lengkap memiliki halam pengesahan sesuai format
+13. ukuran foto diri 4x6
+14. foto diri harus rapi mmenggunakan almataer kalian dengan backgroud warna bebas 
+15. terlapir nama asisten untuk keterangan persetujuan ACC
+16. setelah ACC wajib menjilid antero warna ORANGE tanpa terkecuali.
+
+
+---prosedur ujian praktikum---
+17. praktikan wajib memiliki laporan lengkap yang telah ter ACC 
+19. menunjukan laporan lengkap ke asisten sebagai tiket masuk mengikuti ujian praktikum
+20. praktikan di wajibkan membawa alat saat ujian (komputer dan alat tulis)..!
+
+
+
+
+--------------sekian dan terimakasih saya ucapkan kepada adik-adik------
+selamat mengerjakan........!
